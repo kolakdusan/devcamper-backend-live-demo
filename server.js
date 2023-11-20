@@ -14,8 +14,8 @@ const connectDB = require('./config/db')
 const fileupload = require('express-fileupload')
 const cookieParser = require('cookie-parser')
 
-dotenv.config({ path: '/etc/secrets/config.env' })
-// dotenv.config({ path: './config/config.env' })
+// dotenv.config({ path: '/etc/secrets/config.env' })
+dotenv.config({ path: './config/config.env' })
 
 connectDB()
 
