@@ -18,5 +18,3 @@ https://devcamper-backend-kolak.onrender.com
 # Example URL:
 
 https://devcamper-backend-kolak.onrender.com/api/v1/bootcamps
-
-Just note that the hosted server usually takes about a full minute to respond because of hosting arragenements. 
